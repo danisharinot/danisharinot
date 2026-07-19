@@ -1,10 +1,10 @@
-# 👋 Bonjour, je suis Danis Harinot Razafindralipo
+Bonjour, je suis Danis Harinot RAZAFINDRALIPO 
 
-## 📌 À propos de moi
+📌 À propos de moi
 Magasinier spécialisé en gestion de stock et logistique. 
 Passionné par l'analyse de données et les outils informatiques.
 
-## 🛠️ Compétences
+🛠️ Compétences
 - Gestion de stock & inventaire
 - Odoo
 - Excel avancé & VBA
@@ -12,7 +12,7 @@ Passionné par l'analyse de données et les outils informatiques.
 - Power BI
 - Python
 
-## 💼 Expérience professionnelle
+💼 Expérience professionnelle
 
 **HK Service — Magasinier**
 - Réception et contrôle des marchandises
@@ -20,10 +20,10 @@ Passionné par l'analyse de données et les outils informatiques.
 - Préparation des expéditions
 - Inventaires
 
-## 🚀 Projets
+🚀 Projets
 📦 Application de gestion de stock avec Excel VBA  
 📊 Tableaux de bord Excel / Power BI
 
-## 📫 Contact
-LinkedIn : à ajouter  
-Email : à ajouter
+📫 Contact 
+Email : danisharinot@gmail.com 
+Téléphone : 037 66 631 89
