@@ -1,29 +1,45 @@
 Bonjour, je suis Danis Harinot RAZAFINDRALIPO 
 
-📌 À propos de moi
-Magasinier spécialisé en gestion de stock et logistique. 
-Passionné par l'analyse de données et les outils informatiques.
+🎓 Licence en Mathématiques et Informatique (Université de Toamasina - 2025)  
+📦 Magasinier | 📊 Futur Data Analyst
 
-🛠️ Compétences
-- Gestion de stock & inventaire
+## 🚀 À propos de moi
+
+Professionnel polyvalent avec une expérience en gestion de stock et logistique.  
+Passionné par l'analyse de données et l'utilisation des outils informatiques pour améliorer la prise de décision.
+
+Actuellement, je développe mes compétences en **Data Analytics** à travers des projets utilisant Excel, SQL, Power BI et Python.
+
+## 🛠️ Compétences
+
+### 📦 Logistique
+- Gestion de stock
+- Réception et contrôle des marchandises
+- Inventaire
+- Suivi des entrées et sorties
 - Odoo
+
+### 📊 Data Analytics
 - Excel avancé & VBA
 - SQL
 - Power BI
-- Python
+- Python (Pandas, NumPy, Matplotlib)
 
-💼 Expérience professionnelle
+## 📂 Projets
 
-**HK Service — Magasinier**
-- Réception et contrôle des marchandises
-- Gestion des entrées et sorties de stock
-- Préparation des expéditions
-- Inventaires
+📦 **Inventory Analysis Dashboard**
+- Analyse des données de stock
+- Indicateurs KPI
+- Visualisation Power BI
 
-🚀 Projets
-📦 Application de gestion de stock avec Excel VBA  
-📊 Tableaux de bord Excel / Power BI
+📊 **Sales Analysis Dashboard**
+- Analyse des ventes
+- Identification des tendances
 
-📫 Contact 
-Email : danisharinot@gmail.com 
-Téléphone : 037 66 631 89
+## 🎯 Objectif
+
+Construire des solutions basées sur les données pour aider les entreprises à optimiser leurs performances.
+
+## 📫 Contact
+
+GitHub : github.com/danisharinot
