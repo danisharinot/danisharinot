@@ -7,18 +7,18 @@ Titulaire d'une Licence en Mathématiques et Informatique, je développe actuell
 ## 🛠️ Compétences
 
 - Microsoft Excel (Avancé)
-- Python
+- VBA Programming 
+- Python et R
 - SQL
 - Power BI
 - Pandas
 - NumPy
 - SPSS
-- Stata
-- Git & GitHub
+- GitHub
 
 ## 📚 En cours d'apprentissage
 
-- Analyse de données avec Python
+- Analyse de données avec Python et R
 - Pandas & NumPy
 - SQL
 - Power BI
@@ -36,12 +36,13 @@ Construire un portfolio de projets concrets en Data Analytics et contribuer à d
 - 🐍 Analyse de données avec Python
 - 🗄️ Requêtes SQL
 - 📦 Gestion de stock avec Excel VBA
-- 📉 Analyse statistique avec SPSS et Stata
+- 📉 Analyse statistique avec SPSS
 
 ## 📫 Me contacter
 
 - 📧 Email : danisharinot@gmail.com
 - 💼 LinkedIn : www.linkedin.com/in/danis-harinot-5a05bb38b
+- 📞 037 66 631 89
 
 ---
 ⭐ « Transformer les données en informations utiles pour faciliter la prise de décision. »
