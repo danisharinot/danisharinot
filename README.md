@@ -1,4 +1,4 @@
-# Bonjour, je suis Danis Harinot RAZAFINDRALIPO 👋
+# Danis Harinot RAZAFINDRALIPO 
 
 ## 📊 Futur Data Analyst
 
