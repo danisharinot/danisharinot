@@ -1,45 +1,47 @@
-Bonjour, je suis Danis Harinot RAZAFINDRALIPO 
+# Bonjour, je suis Danis Harinot Razafindralipo 👋
 
-🎓 Licence en Mathématiques et Informatique (Université de Toamasina - 2025)  
-📦 Magasinier | 📊 Futur Data Analyst
+## 📊 Futur Data Analyst
 
-## 🚀 À propos de moi
-
-Professionnel polyvalent avec une expérience en gestion de stock et logistique.  
-Passionné par l'analyse de données et l'utilisation des outils informatiques pour améliorer la prise de décision.
-
-Actuellement, je développe mes compétences en **Data Analytics** à travers des projets utilisant Excel, SQL, Power BI et Python.
+Titulaire d'une Licence en Mathématiques et Informatique, je développe actuellement mes compétences en analyse de données afin de transformer les données en informations utiles pour la prise de décision.
 
 ## 🛠️ Compétences
 
-### 📦 Logistique
-- Gestion de stock
-- Réception et contrôle des marchandises
-- Inventaire
-- Suivi des entrées et sorties
-- Odoo
-
-### 📊 Data Analytics
-- Excel avancé & VBA
+- Microsoft Excel (Avancé)
+- Python
 - SQL
 - Power BI
-- Python (Pandas, NumPy, Matplotlib)
+- Pandas
+- NumPy
+- SPSS
+- Stata
+- Git & GitHub
 
-## 📂 Projets
+## 📚 En cours d'apprentissage
 
-📦 **Inventory Analysis Dashboard**
-- Analyse des données de stock
-- Indicateurs KPI
-- Visualisation Power BI
-
-📊 **Sales Analysis Dashboard**
-- Analyse des ventes
-- Identification des tendances
+- Analyse de données avec Python
+- Pandas & NumPy
+- SQL
+- Power BI
+- Statistiques appliquées
+- Machine Learning (bases)
 
 ## 🎯 Objectif
 
-Construire des solutions basées sur les données pour aider les entreprises à optimiser leurs performances.
+Construire un portfolio de projets concrets en Data Analytics et contribuer à des projets d'analyse de données à fort impact.
 
-## 📫 Contact
+## 🚀 Projets à venir
 
-GitHub : github.com/danisharinot
+- 📈 Analyse des ventes
+- 📊 Tableau de bord Power BI
+- 🐍 Analyse de données avec Python
+- 🗄️ Requêtes SQL
+- 📦 Gestion de stock avec Excel VBA
+- 📉 Analyse statistique avec SPSS et Stata
+
+## 📫 Me contacter
+
+- 📧 Email : danisharinot@gmail.com
+- 💼 LinkedIn : www.linkedin.com/in/danis-harinot-5a05bb38b
+
+---
+⭐ « Transformer les données en informations utiles pour faciliter la prise de décision. »
